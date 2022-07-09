@@ -1,0 +1,17 @@
+body {background-color: lime}
+
+h1 {color: black; background-color: red}
+
+h2 {color: blue; background-color: turquoise}
+
+p {color: blue}
+
+#p1 {color: blue; background-color: aqua}
+
+#p2 {color: green; background-color: grey}
+
+table {background-color: lime}
+
+pre {color: red}
+
+button {color: darkblue; background-color: goldenrod}
